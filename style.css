@@ -3,7 +3,7 @@
   box-sizing: border-box;
 }
 body {
-  background-color: black;
+  background-color: #000000;
   color: aliceblue;
   display: flex;
   justify-content: center;
@@ -18,7 +18,7 @@ body {
   margin: 20px 0;
 }
 .movie-container select {
-  background-color: white;
+  background-color: #ffffff;
   border: 0;
   border-radius: 5px;
   font-size: 14px;
@@ -48,7 +48,7 @@ body {
   background-color: #6feaf6;
 }
 .seat.occupied {
-  background-color: white;
+  background-color: #ffffff;
 }
 .row {
   display: flex;
@@ -92,7 +92,7 @@ body {
 
 /* add screen now */
 .screen {
-  background-color: white;
+  background-color:#ffffff;
   width: 100%;
   height: 70px;
   margin: 15px 0;
